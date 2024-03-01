@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+
+.bandera {
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+}
+
+.superior {
+    background-color: darkred;
+    height: 33.33%;
+}
+
+.central {
+    background-color: white;
+    height: 33.33%
+}
+
+.inferior {
+    background-color: darkred;
+    height: 33.33%;
+}
